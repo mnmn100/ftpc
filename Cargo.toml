@@ -1,0 +1,11 @@
+[package]
+name = "ftpc"
+version = "0.1.0"
+authors = ["michael <michael@michael>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+text_io = "0.1.8"
+port_scanner = "0.1.5"
