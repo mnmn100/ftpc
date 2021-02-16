@@ -2,10 +2,10 @@
 A simple ftp client written in rust.
 
 # Usage
-./ftpc <address>:<port>
+./ftpc [address]:[port]
   
 # Supported ftp commands
-login (usage: login <username> <password>)
+login (usage: login [username] [password])
 dir
 cd
 get
